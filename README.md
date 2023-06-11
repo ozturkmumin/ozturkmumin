@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React , SCSS , JAVASCRIPT**
 
-- 📫 How to reach me **mmnozturk@gmail.com**
+- 📫 How to reach me **mmnozturk344@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
