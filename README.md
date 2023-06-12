@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Dashboard**
 
-- 💬 Ask me about **React , SCSS , JAVASCRIPT**
+- 💬 Ask me about **React  , JAVASCRIPT**
 
 - 📫 How to reach me **mmnozturk344@gmail.com**
 
